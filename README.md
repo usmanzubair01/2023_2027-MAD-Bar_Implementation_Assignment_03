@@ -4,7 +4,7 @@
 |----------------|--------------------------------|
 | **Name**       | Muhammad Usman                 |
 | **Class**      | BSCS 5th Sem (2023-2027)       |
-| **Assignment** | 03: Android Bar Implementation |
+| **Assignment03** | Android Bar Implementation |
 
 ---
 
