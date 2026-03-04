@@ -13,7 +13,7 @@
 This assignment demonstrates the implementation of different types of app bars in Android using Java and XML.
 The main goal is to understand the difference between Action Bar, Toolbar, and Custom Toolbar, and how each one is used in Android applications.
 
-2. Objectives
+## 2. Objectives
 
 The objectives of this assignment are:
 
@@ -27,7 +27,7 @@ To use Java for logic and XML for UI design
 
 To manage multiple activities in a single Android project
 
-3. Tools and Technologies Used
+## 3. Tools and Technologies Used
 
 Android Studio
 
@@ -37,7 +37,7 @@ XML for Layout Design
 
 Android SDK
 
-4. Project Description
+## 4. Project Description
 
 The application consists of three different activities, each demonstrating a different type of app bar:
 
@@ -49,8 +49,8 @@ Custom Toolbar Activity
 
 Each activity is implemented separately to clearly show the differences and usage.
 
-5. Step-by-Step Implementation
-Step 1: Create a New Android Project
+## 5. Step-by-Step Implementation
+### Step 1: Create a New Android Project
 
 Open Android Studio
 
@@ -62,7 +62,7 @@ Choose Java as the language
 
 Finish project setup
 
-Step 2: Action Bar Implementation
+### Step 2: Action Bar Implementation
 
 Activity Name: ActionBarActivity
 
@@ -79,7 +79,7 @@ Handle menu item click events in Java
 Purpose:
 This step demonstrates the use of the default Action Bar without any customization.
 
-Step 3: Toolbar Implementation
+### Step 3: Toolbar Implementation
 
 Activity Name: ToolbarActivity
 
@@ -98,7 +98,7 @@ Add menu items and handle click events
 Purpose:
 This step shows how a Toolbar can replace the default Action Bar and provide more flexibility.
 
-Step 4: Custom Toolbar Implementation
+### Step 4: Custom Toolbar Implementation
 
 Activity Name: CustomToolbarActivity
 
@@ -119,13 +119,13 @@ Handle button click actions using Java
 Purpose:
 This step demonstrates how to fully customize the app bar according to application requirements.
 
-Step 5: Android Manifest Configuration
+### Step 5: Android Manifest Configuration
 
 Register all three activities in AndroidManifest.xml
 
 Ensure correct activity launching and navigation
 
-6. Project Structure
+## 6. Project Structure
 
 ActionBarActivity.java
 
@@ -145,7 +145,7 @@ menu XML files
 
 AndroidManifest.xml
 
-7. Output
+## 7. Output
 
 A working Android application
 
@@ -161,7 +161,7 @@ Clean UI with proper navigation
 
 Error-free Java and XML code
 
-8. Conclusion
+## 8. Conclusion
 
 This assignment helped in understanding the concept of app bars in Android.
 By implementing Action Bar, Toolbar, and Custom Toolbar separately, the differences and use cases of each component became clear.
